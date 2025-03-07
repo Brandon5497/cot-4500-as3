@@ -3,9 +3,9 @@ Programming Assignment 3<br>
 Brandon Ramlagan<br>
 March 7, 2025<br>
 
-This project implments two methods for solving ordinary differential equations. These two methods are the Euler's method and the Runge-Kutta method.
+This project implements two methods for solving ordinary differential equations. These two methods are the Euler's method and the Runge-Kutta method.
 
-requirement.txt shows all the available packages when compiling this project on my system. Not all of the packages were needed for this project.
+requirements.txt shows all the available packages when compiling this project on my system. Not all of the packages were needed for this project.
 Only NumPy was imported
 
 To run:
